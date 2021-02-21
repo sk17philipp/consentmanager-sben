@@ -1,0 +1,16 @@
+PODS:
+  - consentmanager-sben (0.1.0)
+
+DEPENDENCIES:
+  - consentmanager-sben (from `../`)
+
+EXTERNAL SOURCES:
+  consentmanager-sben:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  consentmanager-sben: f54a60125d19a93f7588c38f574f2e76c0817aee
+
+PODFILE CHECKSUM: b95d272b518c349e9e384d866022982ecfac4df3
+
+COCOAPODS: 1.10.1

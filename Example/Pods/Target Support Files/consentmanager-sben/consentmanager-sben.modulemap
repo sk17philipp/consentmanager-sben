@@ -1,0 +1,6 @@
+framework module consentmanager_sben {
+  umbrella header "consentmanager-sben-umbrella.h"
+
+  export *
+  module * { export * }
+}

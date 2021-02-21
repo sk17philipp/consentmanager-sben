@@ -1,0 +1,6 @@
+framework module Pods_consentmanager_sben_Tests {
+  umbrella header "Pods-consentmanager-sben_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
