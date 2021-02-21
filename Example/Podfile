@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'consentmanager-sben_Example' do
+  pod 'consentmanager-sben', :path => '../'
+
+  target 'consentmanager-sben_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
